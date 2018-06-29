@@ -4,18 +4,21 @@ import random
 import math
 import operator
 
+# Carrega a base de entrada
 def loadDataset(filename, split, trainingSet=[] , testSet=[]):
 	with open(filename, 'r') as csvfile:
-	    lines = csv.reader(csvfile)
-	    dataset = list(lines)
-	    for x in range(len(dataset)-1):
-	        for y in range(4):
-	            dataset[x][y] = float(dataset[x][y])
-	        if random.random() < split:
-	            trainingSet.append(dataset[x])
-	        else:
-	            testSet.append(dataset[x])
-
+		lines = csv.reader(csvfile)
+		dataset = list(lines)
+		
+		for x in range(len(dataset)-1):
+			for y in range(len(dataset[x])-1):
+				dataset[x][y] = float(dataset[x][y])
+				# y = float(y)
+			
+			if random.random() < split:
+				trainingSet.append(dataset[x])
+			else:
+				testSet.append(dataset[x])
 
 def euclideanDistance(instance1, instance2, length):
 	distance = 0
@@ -59,7 +62,7 @@ def main():
 	testSet=[]
 	predictions=[]
 	split = 0.67
-	loadDataset('iris.data', split, trainingSet, testSet)
+	loadDataset('wine.data', split, trainingSet, testSet)
 	print( 'Train set: ' + repr(len(trainingSet)))
 	print( 'Test set: ' + repr(len(testSet)))
 	# generate predictions
