@@ -67,10 +67,7 @@ def main():
 	predictions=[]
 	contacc=0
 	conterr=0
-	split = 0.67
-	# print("Defina uma numero impar para ser o K: ")
-	# k=3
-	
+	split = 0.67	
 	while True:
 		k=int(input("Defina uma numero ímpar para ser o K:"))
 		if k % 2 != 0:
