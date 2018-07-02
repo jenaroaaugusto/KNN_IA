@@ -1,0 +1,16 @@
+*************************************Base Ballons*********************************************
+
+Defina uma numero ímpar para ser o K:3
+Conjunto Treinado: 12
+Conjunto de Teste: 7
+ACERTOU 6
+ERROU 1
+
+Valor obtido: T || valor real: F -> ERROU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: F || valor real: F -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: F || valor real: F -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Accuracy: 85.71428571428571%

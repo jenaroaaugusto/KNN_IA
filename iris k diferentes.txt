@@ -1,0 +1,179 @@
+Defina uma numero ímpar para ser o K:5
+Conjunto Treinado: 92
+Conjunto de Teste: 57
+
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-virginica -> ERROU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-virginica -> ERROU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Precisão: 96.49122807017544%
+
+Acertos:55  Erros:2
+
+
+Defina uma numero ímpar para ser o K:7
+Conjunto Treinado: 101
+Conjunto de Teste: 48
+
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-versicolor -> ERROU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Precisão: 97.91666666666666%
+
+Acertos:47  Erros:1
+
+
+Acertos:55  Erros:2
+Augusto@LAPTOP-RPRNJB3F:/mnt/c/Users/jenar/Documents/UFSJ/IA Inteligencia Artificial/TP2$ python3 knn.py
+Defina uma numero ímpar para ser o K:9
+Conjunto Treinado: 102
+Conjunto de Teste: 47
+
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Precisão: 100.0%
+
+Acertos:47  Erros:0e

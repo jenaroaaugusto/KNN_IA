@@ -1,0 +1,193 @@
+Defina uma numero ímpar para ser o K:5
+Conjunto Treinado: 123
+Conjunto de Teste: 54
+
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 1 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 1 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Precisão: 70.37037037037037%
+
+Acertos:38  Erros:16
+
+Defina uma numero ímpar para ser o K:7
+Conjunto Treinado: 122
+Conjunto de Teste: 55
+
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 1 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 1 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Precisão: 67.27272727272727%
+
+Acertos:37  Erros:18
+
+Defina uma numero ímpar para ser o K:9
+Conjunto Treinado: 116
+Conjunto de Teste: 61
+
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 1 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Precisão: 70.49180327868852%
+
+Acertos:43  Erros:18

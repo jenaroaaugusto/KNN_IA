@@ -1,0 +1,145 @@
+
+******************Base Iris*********************************************************
+Defina uma numero ímpar para ser o K:3
+Conjunto Treinado: 98
+Conjunto de Teste: 51
+
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-setosa || valor real: Iris-setosa -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-versicolor -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-virginica -> ERROU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-versicolor || valor real: Iris-virginica -> ERROU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Valor obtido: Iris-virginica || valor real: Iris-virginica -> ACERTOU
+Accuracy: 96.07843137254902%
+
+*******************************Base Wine**************************************************
+
+Defina uma numero ímpar para ser o K:3
+Conjunto Treinado: 115
+Conjunto de Teste: 62
+
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Accuracy: 72.58064516129032%
+
+*************************************Base Ballons*********************************************
+
+Defina uma numero ímpar para ser o K:3
+Conjunto Treinado: 12
+Conjunto de Teste: 7
+
+Valor obtido: T || valor real: F -> ERROU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: F || valor real: F -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Valor obtido: F || valor real: F -> ACERTOU
+Valor obtido: T || valor real: T -> ACERTOU
+Accuracy: 85.71428571428571%
+
+***************************************Base Magic ********************************************************

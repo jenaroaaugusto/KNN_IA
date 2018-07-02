@@ -1,0 +1,347 @@
+Bases: Iris, Ballons, Magic, Wine
+
+Algoritmos (5): 1 - KNN (a gente implementou)
+		2 - Árvore de Decisão [Weka] 
+		3 - Naive-Bayes [Weka] 
+		4 - Redes Neurais [Weka]
+		5 - SVM [Weka]
+
+#### Arv. Decisão [Weka] - REPTree  ####
+
+**BALLONS**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          15               78.9474 %
+Incorrectly Classified Instances         4               21.0526 %
+Kappa statistic                          0.5476
+Mean absolute error                      0.1789
+Root mean squared error                  0.3298
+Relative absolute error                 37.4276 %
+Root relative squared error             66.9416 %
+Total Number of Instances               19     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,714    0,167    0,714      0,714    0,714      0,548    0,929     0,896     T
+                 0,833    0,286    0,833      0,833    0,833      0,548    0,929     0,948     F
+Weighted Avg.    0,789    0,242    0,789      0,789    0,789      0,548    0,929     0,929     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  5  2 |  a = T
+  2 10 |  b = F
+
+
+**IRIS**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         143               95.9732 %
+Incorrectly Classified Instances         6                4.0268 %
+Kappa statistic                          0.9396
+Mean absolute error                      0.044 
+Root mean squared error                  0.1612
+Relative absolute error                  9.896  %
+Root relative squared error             34.1892 %
+Total Number of Instances              149     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     Iris-setosa
+                 0,940    0,030    0,940      0,940    0,940      0,910    0,956     0,937     Iris-versicolor
+                 0,940    0,030    0,940      0,940    0,940      0,910    0,966     0,879     Iris-virginica
+Weighted Avg.    0,960    0,020    0,960      0,960    0,960      0,939    0,974     0,938     
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 49  0  0 |  a = Iris-setosa
+  0 47  3 |  b = Iris-versicolor
+  0  3 47 |  c = Iris-virginica
+
+**MAGIC** 
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       16191               85.1307 %
+Incorrectly Classified Instances      2828               14.8693 %
+Kappa statistic                          0.6629
+Mean absolute error                      0.2032
+Root mean squared error                  0.342 
+Relative absolute error                 44.5716 %
+Root relative squared error             71.6319 %
+Total Number of Instances            19019     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,924    0,283    0,858      0,924    0,890      0,667    0,891     0,916     g
+                 0,717    0,076    0,837      0,717    0,772      0,667    0,891     0,823     h
+Weighted Avg.    0,851    0,210    0,850      0,851    0,848      0,667    0,891     0,884     
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 11396   935 |     a = g
+  1893  4795 |     b = h
+
+**WINE**
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9537
+Mean absolute error                      0.0835
+Root mean squared error                  0.2328
+Relative absolute error                 13.3787 %
+Root relative squared error             29.8504 %
+Total Number of Instances              177     
+
+#### Naive Bayes [Weka] - Naive Bayes 
+
+**IRIS** 
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         141               94.6309 %
+Incorrectly Classified Instances         8                5.3691 %
+Kappa statistic                          0.9195
+Mean absolute error                      0.0359
+Root mean squared error                  0.1586
+Relative absolute error                  8.0844 %
+Root relative squared error             33.6416 %
+Total Number of Instances              149     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     Iris-setosa
+                 0,920    0,040    0,920      0,920    0,920      0,880    0,992     0,983     Iris-versicolor
+                 0,920    0,040    0,920      0,920    0,920      0,880    0,992     0,985     Iris-virginica
+Weighted Avg.    0,946    0,027    0,946      0,946    0,946      0,919    0,994     0,989     
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 49  0  0 |  a = Iris-setosa
+  0 46  4 |  b = Iris-versicolor
+  0  4 46 |  c = Iris-virginica
+
+**BALLONS**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          19              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0784
+Root mean squared error                  0.1262
+Relative absolute error                 16.4022 %
+Root relative squared error             25.6233 %
+Total Number of Instances               19     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     T
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     F
+Weighted Avg.    1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  7  0 |  a = T
+  0 12 |  b = F
+
+**MAGIC**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       13819               72.6589 %
+Incorrectly Classified Instances      5200               27.3411 %
+Kappa statistic                          0.3281
+Mean absolute error                      0.2789
+Root mean squared error                  0.4859
+Relative absolute error                 61.1712 %
+Root relative squared error            101.7579 %
+Total Number of Instances            19019     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,917    0,624    0,730      0,917    0,813      0,359    0,757     0,832     g
+                 0,376    0,083    0,710      0,376    0,492      0,359    0,757     0,678     h
+Weighted Avg.    0,727    0,434    0,723      0,727    0,700      0,359    0,757     0,778     
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 11303  1028 |     a = g
+  4172  2516 |     b = h
+
+**WINE**
+Naive Bayes não funciona para regressão(?)
+
+#### Redes Neurais [Weka] - MultilayerPerceptrorn  ####
+**WINE**
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9894
+Mean absolute error                      0.0572
+Root mean squared error                  0.1122
+Relative absolute error                  9.1696 %
+Root relative squared error             14.3803 %
+Total Number of Instances              177     
+
+**BALLONS**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          19              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0221
+Root mean squared error                  0.0244
+Relative absolute error                  4.6283 %
+Root relative squared error              4.9548 %
+Total Number of Instances               19     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     T
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     F
+Weighted Avg.    1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  7  0 |  a = T
+  0 12 |  b = F
+
+**MAGIC**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       16326               85.8405 %
+Incorrectly Classified Instances      2693               14.1595 %
+Kappa statistic                          0.6751
+Mean absolute error                      0.1945
+Root mean squared error                  0.3267
+Relative absolute error                 42.6488 %
+Root relative squared error             68.4185 %
+Total Number of Instances            19019     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,943    0,298    0,854      0,943    0,896      0,683    0,908     0,932     g
+                 0,702    0,057    0,870      0,702    0,777      0,683    0,908     0,876     h
+Weighted Avg.    0,858    0,213    0,860      0,858    0,854      0,683    0,908     0,912     
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 11631   700 |     a = g
+  1993  4695 |     b = h
+
+**IRIS**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         144               96.6443 %
+Incorrectly Classified Instances         5                3.3557 %
+Kappa statistic                          0.9497
+Mean absolute error                      0.034 
+Root mean squared error                  0.1325
+Relative absolute error                  7.654  %
+Root relative squared error             28.1064 %
+Total Number of Instances              149     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     Iris-setosa
+                 0,920    0,010    0,979      0,920    0,948      0,925    0,996     0,993     Iris-versicolor
+                 0,980    0,040    0,925      0,980    0,951      0,927    0,996     0,992     Iris-virginica
+Weighted Avg.    0,966    0,017    0,968      0,966    0,966      0,950    0,997     0,995     
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 49  0  0 |  a = Iris-setosa
+  0 46  4 |  b = Iris-versicolor
+  0  1 49 |  c = Iris-virginica
+
+
+#### SVM [Weka] - SMO ####
+
+**BALLONS - SMO [SVM]**
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          19              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               19     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     T
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     F
+Weighted Avg.    1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  7  0 |  a = T
+  0 12 |  b = F
+
+
+**IRIS - SMO [SVM]**
+=== Summary ===
+
+Correctly Classified Instances         143               95.9732 %
+Incorrectly Classified Instances         6                4.0268 %
+Kappa statistic                          0.9396
+Mean absolute error                      0.2312
+Root mean squared error                  0.2881
+Relative absolute error                 52.0134 %
+Root relative squared error             61.1215 %
+Total Number of Instances              149     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     Iris-setosa
+                 0,960    0,040    0,923      0,960    0,941      0,911    0,960     0,900     Iris-versicolor
+                 0,920    0,020    0,958      0,920    0,939      0,909    0,970     0,922     Iris-virginica
+Weighted Avg.    0,960    0,020    0,960      0,960    0,960      0,940    0,976     0,940     
+
+=== Confusion Matrix ===
+
+  a  b  c   <-- classified as
+ 49  0  0 |  a = Iris-setosa
+  0 48  2 |  b = Iris-versicolor
+  0  4 46 |  c = Iris-virginica
+
+**WINE - SMOReg - SVM**
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9317
+Mean absolute error                      0.2139
+Root mean squared error                  0.2824
+Relative absolute error                 34.2629 %
+Root relative squared error             36.2023 %
+Total Number of Instances              177     
+   

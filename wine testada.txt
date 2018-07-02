@@ -1,0 +1,71 @@
+*******************************Base Wine**************************************************
+
+Defina uma numero ímpar para ser o K:3
+Conjunto Treinado: 115
+Conjunto de Teste: 62
+Acertou 45
+ERROU 17
+
+Valor obtido: 3 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 2 || valor real: 1 -> ERROU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 1 || valor real: 1 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 2 -> ERROU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 2 || valor real: 2 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 1 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 2 || valor real: 3 -> ERROU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Valor obtido: 3 || valor real: 3 -> ACERTOU
+Accuracy: 72.58064516129032%
